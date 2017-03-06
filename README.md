@@ -1,4 +1,4 @@
-# 百度Kafka服务Go样例
+# 百度Kafka服务Golang样例
 
 百度Kafka是托管的Kafka消息服务。完全兼容开源Kafka。本样例展示如何使用[sarama](https://github.com/Shopify/sarama)客户端访问百度Kafka服务。
 
