@@ -1,6 +1,6 @@
-# 百度Kafka服务Golang样例
+# 百度消息服务Golang样例
 
-百度Kafka是托管的Kafka消息服务。完全兼容开源Kafka。本样例展示如何使用[sarama](https://github.com/Shopify/sarama)客户端访问百度Kafka服务。
+百度消息服务是分布式、高可扩展、高通量的托管消息队列服务。完全兼容开源Kafka。本样例展示如何使用[sarama](https://github.com/Shopify/sarama)客户端访问百度消息服务。
 
 ## 环境要求
 
@@ -39,7 +39,7 @@
 
 ## 参考链接
 
-- [百度Kafka产品介绍](https://cloud.baidu.com/product/kafka.html)
+- [百度消息服务产品介绍](https://cloud.baidu.com/product/kafka.html)
 - [Kafka](http://kafka.apache.org/)
 - [sarama](https://github.com/tcnksm-sample/sarama)
 - [Go Getting Started](https://golang.org/doc/install)
